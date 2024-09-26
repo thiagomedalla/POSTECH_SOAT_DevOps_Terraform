@@ -55,7 +55,7 @@ jobs:
 
             <details><summary>Show Plan</summary>
 
-            \`\`\`terraform\n
+            \`\`\`terraform\n\n
             ${process.env.PLAN}
             \`\`\`
 
